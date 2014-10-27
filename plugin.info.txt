@@ -1,0 +1,7 @@
+base   piratiform
+author Vaclav Malek
+email  vaclav.malek@pirati.cz
+date   2014-03-20
+name   Form system
+desc   Form system of Czech Pirate party
+url    https://www.github.com/pirati-cz
